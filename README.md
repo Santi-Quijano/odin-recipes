@@ -1,2 +1,4 @@
 # odin-recipes
-Greetings! This is my first project using everything I have learned in The Odin Project so far (from Git to HTML). I will build a recipe website. For this assignment, I have chosen several typical dishes in the gastronomy of my country, Uruguay. 
+A simple HTML website for exhibiting recipes with Italian roots.
+Live site: https://rcanario.github.io/odin-recipes/
+As I advanced on The Odin Project, and programming in general, I will keep updating the website. 
