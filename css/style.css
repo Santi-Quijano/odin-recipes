@@ -1,0 +1,22 @@
+body {
+  background-color: burlywood;
+}
+
+#header {
+  text-align: left;
+  color: rgb(108, 143, 38);
+  font-size: 36px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, serif;
+}
+
+h3,
+.recipes {
+  text-align: left;
+  color: firebrick;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, serif;
+}
+
+.italian-restaurant {
+  height: auto;
+  width: 500px;
+}
