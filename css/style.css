@@ -4,7 +4,7 @@ body {
 
 #header {
   text-align: left;
-  color: rgb(108, 143, 38);
+  color: seagreen;
   font-size: 36px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, serif;
 }
@@ -16,7 +16,21 @@ h3,
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, serif;
 }
 
-.italian-restaurant {
+.italian-restaurant,
+.chickpea,
+.pastafrola,
+.faina {
   height: auto;
   width: 500px;
+}
+
+article {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background: peru;
+  color: black;
+}
+section {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background: forestgreen;
+  color: black;
 }
